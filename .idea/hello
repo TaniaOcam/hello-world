@@ -1,0 +1,5 @@
+ public class hello {
+ public static void mani(String [] args){
+    System.out.printrln("hello")
+    }
+    }
