@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c74943-4625-486f-8743-95d6cda87e6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/hello" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/h origin main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626277060370</updated>
-      <workItem from="1626277065829" duration="3582000" />
+      <workItem from="1626277065829" duration="7181000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;nuevo archivo&quot;">
       <created>1626278232211</created>
